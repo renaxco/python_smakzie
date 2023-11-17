@@ -1,0 +1,1 @@
+barang1 = float(input('Barang 1 : '))
